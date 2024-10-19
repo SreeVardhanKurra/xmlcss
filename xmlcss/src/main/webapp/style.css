@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+cse
+{
+  background-color: orange;
+}
+rollno
+{
+  background-color: white;
+}
+
+rollno,sname
+{
+  display:block;
+}
